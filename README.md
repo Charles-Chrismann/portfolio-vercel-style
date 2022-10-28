@@ -19,7 +19,7 @@ Run the project
 npm run dev
 ```
 
-Hosted project: [portfolio-vercel-style.vercel.app](portfolio-vercel-style.vercel.app).
+Hosted project: [portfolio-vercel-style.vercel.app](https://portfolio-vercel-style.vercel.app).
 
 Vercel provides a deployment interface that allows you to select the github directory directly from vercel, my project using external dependencies, it was necessary to indicate commands to launch before building the project as well as indicate an output directory. Checkly was also installed to detect any problem in our application.
 
